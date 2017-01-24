@@ -6,11 +6,9 @@ This post contains an overview of what you need to know about how to book travel
 
 ### Leadership
 
-The 18F Travel Team has four members:
+The 18F Travel Team has two members:
 
-* Jordan Metoyer (18F Engineering)
-* Emmanuel "Manny" Pressley (18F Design)
-* Ethan Heppner (TTS Operations)
+* Victor Valdiviezo (TTS Operations)
 * Leah Gitter (TTS Operations)
 
 Jordan and Manny manage travel approval for their respective chapters and along with Leah Gitter, are 18F's primary points of contact for travel-related questions during 18F Travel Office Hours. Leah Gitter approves travel for all other chapters and business units.
