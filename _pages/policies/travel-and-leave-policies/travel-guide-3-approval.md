@@ -6,7 +6,7 @@ title: Step 3 - Submit for Concur Approval
 [Back to Choose your Itinerary](/travel-guide-2-choose-your-itinerary)
 [Jump to Travel](/travel-guide-4-travel)
 
-Now that you've chosen your itinerary, its time to complete some additional trip information to get your trip ready for approval and to book your tickets. There are 2 main parts to this process:
+Now that you've chosen your itinerary, it's time to complete some additional trip information to get your trip ready for approval and to book your tickets. There are 2 main parts to this process:
 
 1. [Completing your Trip Information](#complete-trip-information)
 
