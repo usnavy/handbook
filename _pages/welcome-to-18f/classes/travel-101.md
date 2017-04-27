@@ -11,8 +11,6 @@ The 18F Travel Team has two members:
 * Leah Gitter (TTS Operations)
 * Ethan Heppner (TTS Operations)
 
-Leah Gitter is 18F's primary points of contact for travel-related questions during 18F Travel Office Hours. Ethan Heppener fills in for Leah when they are out of the office.
-
 ### Communication
 
 If you have travel questions, you can ask them during 18F travel team [office hours](https://calendar.google.com/calendar/embed?mode=week&src=gsa.gov_iqsha8bbdcjtqq3jufp15vl554%40group.calendar.google.com) Monday through Friday from **10:30 to 11:30 AM** and again from **3:30 to 4:30 PM** (All times Eastern). Someone will be monitoring the channel and they will address your question as fast as they can.
